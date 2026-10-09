@@ -1,0 +1,14 @@
+You're taking over my "DTS Crew" animated ad for Diwans Technical Solutions. Everything you need is in the folder ~/Desktop/DTS-Crew-for-Mac (this folder). Open it as the working directory.
+
+1. Read START_HERE.md fully, then STORYBOARD.md (the v3 section at the bottom is the approved story), then HANDOFF.md and every file in reference/memory/. Look at the images in reference/ and a few frames of the two approved reels in reference/approved-reels/. That's the quality bar.
+2. Do the whole job tonight, fully on your own. I'm asleep. Don't ask me anything; pick sensible defaults and note them in HANDOFF.md.
+   - Set up the Mac tools.
+   - Remodel the three characters properly: Bip, Bop and Bloop, tangerine bodies, blue aprons, no antennas.
+   - Build the face/acting rig.
+   - Render the character sheet and a reaction test, review them yourself and fix.
+   - Make the full ~34 s 9:16 film per STORYBOARD v3, with gibberish voices, music on the beat, SFX on every action and motion blur.
+   - QA it and deliver the finished MP4s to my Desktop by morning.
+   - I've already approved skipping the checkpoint; go straight through.
+3. Never copy real Minions (no yellow pill + goggles + overalls combo, no real Minion words). Browser-only 3D with Three.js, no Blender.
+4. Update HANDOFF.md after every step so nothing is lost if you stop. Run long renders in the background and keep the Mac awake with caffeinate.
+5. In the morning, put a short summary at the top of HANDOFF.md: what's done, where the files are, anything you'd still improve.
